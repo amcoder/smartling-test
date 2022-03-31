@@ -41,7 +41,7 @@ function App() {
               }} />
           </div>
           <div>
-            <FormattedMessage id="british" defaultMessage="There {count, plural, =0 {are no colors} one {is 1 color} other {are {count, number} colors}} on the screen"
+            <FormattedMessage id="british" defaultMessage="There {count, plural, =0 {are no colors} one {is 1 color} other {are {count, number} colors}} on the screen."
               values={{
                 count: 16312
               }} />
