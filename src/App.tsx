@@ -40,6 +40,12 @@ function App() {
                 date: Date.now()
               }} />
           </div>
+          <div>
+            <FormattedMessage id="british" defaultMessage="There are {count, plural, =0 {no colors} one {1 color} other {{count, number} colors}} on the screen"
+              values={{
+                count: 16312
+              }} />
+          </div>
         </header>
       </div>
     </RawIntlProvider>

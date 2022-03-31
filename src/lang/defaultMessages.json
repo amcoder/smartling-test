@@ -1,4 +1,7 @@
 {
+  "british": {
+    "defaultMessage": "There are {count, plural, =0 {no colors} one {1 color} other {{count, number} colors}} on the screen"
+  },
   "dates": {
     "defaultMessage": "The event is on {date, date, medium} at {date, time, medium} in the office."
   },
