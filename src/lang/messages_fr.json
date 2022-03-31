@@ -4,5 +4,5 @@
   "edit-text": "Edit <code>{path}</code> and save to reload. 🇫🇷",
   "learn-react": "Learn React 🇫🇷",
   "numbers": "There are {count, number} items out of {total, number} in the box. 🇫🇷",
-  "update": "Just forcing an update 🇫🇷"
+  "update": "Just forcing an update. 🇫🇷"
 }

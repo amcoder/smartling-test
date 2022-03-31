@@ -47,7 +47,7 @@ function App() {
               }} />
           </div>
           <div>
-            <FormattedMessage id="update" defaultMessage="Just forcing an update" />
+            <FormattedMessage id="update" defaultMessage="Just forcing an update." />
           </div>
         </header>
       </div>
