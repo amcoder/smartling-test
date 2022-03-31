@@ -1,7 +1,4 @@
 {
-  "smartling": {
-    "string_format": "icu"
-  },
   "dates": "The event is on {date, date, medium} at {date, time, medium} in the office.",
   "edit-text": "Edit <code>{path}</code> and save to reload.",
   "learn-react": "Learn React",
