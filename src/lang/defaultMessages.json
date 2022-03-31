@@ -1,0 +1,14 @@
+{
+  "dates": {
+    "defaultMessage": "The event is on {date, date, medium} at {date, time, medium} in the office."
+  },
+  "edit-text": {
+    "defaultMessage": "Edit <code>{path}</code> and save to reload."
+  },
+  "learn-react": {
+    "defaultMessage": "Learn React"
+  },
+  "numbers": {
+    "defaultMessage": "There are {count, number} items out of {total, number} in the box."
+  }
+}
