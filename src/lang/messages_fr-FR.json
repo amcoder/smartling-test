@@ -1,7 +1,8 @@
 {
-  "british" : "{count, plural, =0 {Il n'y a pas de couleurs sur l'écran} one {Il y a {count,number} couleurs sur l'écran} other {Il y a {count,number} couleurs sur l'écran}}",
+  "british" : "{count, plural, =0 {Il n'y a pas de couleurs sur l'écran.} one {Il y a {count,number} couleurs sur l'écran.} other {Il y a {count,number} couleurs sur l'écran.}}",
   "dates" : "L'événement a lieu le {date,date,medium} à {date,time,medium} au bureau.",
   "edit-text" : "Modifier <code>{path}</code> et enregistrer pour recharger.",
   "learn-react" : "Apprendre React",
-  "numbers" : "Il y a {count,number} éléments sur {total,number} dans la boîte."
+  "numbers" : "Il y a {count,number} éléments sur {total,number} dans la boîte.",
+  "update" : "Juste pour forcer une mise à jour"
 }
