@@ -1,18 +1,18 @@
 import { createIntl, createIntlCache } from 'react-intl';
-// import deMessages from './lang/messages_de-DE.json';
+import deMessages from './lang/messages_de.json';
 import enMessages from './lang/messages_en.json';
-// import enGBMessages from './lang/messages_en-GB.json';
+import enGBMessages from './lang/messages_en-GB.json';
 import frMessages from './lang/messages_fr.json';
-// import frFRMessages from './lang/messages_fr-FR.json';
-// import jaMessages from './lang/messages_ja-JP.json';
+import frFRMessages from './lang/messages_fr-FR.json';
+import jaMessages from './lang/messages_ja.json';
 
 const messages: { [index: string]: { [index: string]: any } } = {
   en: enMessages,
-//   'en-GB': enGBMessages,
+  'en-GB': enGBMessages,
   fr: frMessages,
-//   'fr-FR': frFRMessages,
-//   de: deMessages,
-//   ja: jaMessages,
+  'fr-FR': frFRMessages,
+  de: deMessages,
+  ja: jaMessages,
 };
 
 let locale = navigator.language;
