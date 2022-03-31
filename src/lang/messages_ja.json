@@ -4,5 +4,5 @@
   "edit-text" : "<code>{path}</code> を編集し、保存すると再読み込みされます。",
   "learn-react" : "Reactを学ぶ",
   "numbers" : "箱の中には{total,number}個のうち{count,number}個のアイテムがあります。",
-  "update" : "アップデートを強要するだけ"
+  "update" : "ただ、無理やり更新しているだけです。"
 }
