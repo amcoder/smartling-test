@@ -13,5 +13,8 @@
   },
   "numbers": {
     "defaultMessage": "There are {count, number} items out of {total, number} in the box."
+  },
+  "update": {
+    "defaultMessage": "Just forcing an update"
   }
 }

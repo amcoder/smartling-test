@@ -46,6 +46,9 @@ function App() {
                 count: 16312
               }} />
           </div>
+          <div>
+            <FormattedMessage id="update" defaultMessage="Just forcing an update" />
+          </div>
         </header>
       </div>
     </RawIntlProvider>
