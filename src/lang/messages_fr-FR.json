@@ -4,5 +4,5 @@
   "edit-text" : "Modifier <code>{path}</code> et enregistrer pour recharger.",
   "learn-react" : "Apprendre React",
   "numbers" : "Il y a {count,number} éléments sur {total,number} dans la boîte.",
-  "update" : "Juste pour forcer une mise à jour"
+  "update" : "Juste pour forcer une mise à jour."
 }
