@@ -1,0 +1,6 @@
+{
+  "dates" : "L'événement a lieu le {date,date,medium} à {date,time,medium} au bureau.",
+  "edit-text" : "Modifier <code>{path}</code> et enregistrer pour recharger.",
+  "learn-react" : "Apprendre React",
+  "numbers" : "Il y a {count,number} éléments sur {total,number} dans la boîte."
+}
