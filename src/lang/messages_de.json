@@ -1,7 +1,8 @@
 {
-  "british" : "{count, plural, =0 {Es gibt keine Farben auf dem Bildschirm} one {Es gibt {count,number} Farben auf dem Bildschirm} other {Es gibt {count,number} Farben auf dem Bildschirm}}",
+  "british" : "{count, plural, =0 {Es sind keine Farben auf dem Bildschirm zu sehen.} one {Es sind {count,number} Farben auf dem Bildschirm.} other {Auf dem Bildschirm sind {count,number} Farben zu sehen.}}",
   "dates" : "Die Veranstaltung findet am {date,date,medium} um {date,time,medium} im Büro statt.",
   "edit-text" : "Bearbeiten Sie <code>{path}</code> und speichern Sie, um sie erneut zu laden.",
   "learn-react" : "React lernen",
-  "numbers" : "Es befinden sich {count,number} Gegenstände aus {total,number} in der Schachtel."
+  "numbers" : "Es befinden sich {count,number} Gegenstände aus {total,number} in der Schachtel.",
+  "update" : "Nur ein Update erzwingen"
 }
