@@ -1,0 +1,7 @@
+{
+  "british" : "{count, plural, =0 {画面に色が表示されない} other {画面に表示される色は{count,number}色}}",
+  "dates" : "イベントはオフィスで開催されています.{date,date,medium}{date,time,medium}",
+  "edit-text" : "<code>{path}</code> を編集し、保存すると再読み込みされます。",
+  "learn-react" : "Reactを学ぶ",
+  "numbers" : "箱の中には{total,number}個のうち{count,number}個のアイテムがあります。"
+}
