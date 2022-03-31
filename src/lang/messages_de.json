@@ -4,5 +4,5 @@
   "edit-text" : "Bearbeiten Sie <code>{path}</code> und speichern Sie, um sie erneut zu laden.",
   "learn-react" : "React lernen",
   "numbers" : "Es befinden sich {count,number} Gegenstände aus {total,number} in der Schachtel.",
-  "update" : "Nur ein Update erzwingen"
+  "update" : "Ich erzwinge gerade ein Update."
 }
