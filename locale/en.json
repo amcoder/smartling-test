@@ -1,0 +1,1273 @@
+{
+    "+\/8jV\/": {
+        "defaultMessage": "does not contain word"
+    },
+    "+7u\/\/+": {
+        "defaultMessage": "Signed-up"
+    },
+    "+EySJ4": {
+        "defaultMessage": "Unique sessions"
+    },
+    "+JSDQk": {
+        "defaultMessage": "Property name"
+    },
+    "+LE+F1": {
+        "defaultMessage": "Error Rate"
+    },
+    "+SwUa5": {
+        "defaultMessage": "UTM Campaign"
+    },
+    "+WBVrU": {
+        "defaultMessage": "URL Path"
+    },
+    "+YZPp5": {
+        "defaultMessage": "Watched Element API error"
+    },
+    "+g7iCc": {
+        "defaultMessage": "Clicked"
+    },
+    "+qMBhg": {
+        "defaultMessage": "{n, plural, one {1 millisecond} other {# milliseconds}}"
+    },
+    "\/06iwc": {
+        "defaultMessage": "Large"
+    },
+    "\/8q5jH": {
+        "defaultMessage": "Line Chart"
+    },
+    "\/9ilbD": {
+        "defaultMessage": "Element was set"
+    },
+    "\/a7cg5": {
+        "defaultMessage": "Past 24 hours"
+    },
+    "\/biIHN": {
+        "defaultMessage": "Element \/ CSS Selector"
+    },
+    "\/clOBU": {
+        "defaultMessage": "Weekly"
+    },
+    "\/d++UG": {
+        "defaultMessage": "Detection events"
+    },
+    "\/dIFIu": {
+        "defaultMessage": "Deselecting this option will hide activity from currently active sessions."
+    },
+    "03Mg3G": {
+        "defaultMessage": "Page URL"
+    },
+    "06KAly": {
+        "defaultMessage": "URL Host"
+    },
+    "08hqOd": {
+        "defaultMessage": "Journeys"
+    },
+    "0DvwSl": {
+        "defaultMessage": "Request Method"
+    },
+    "0KgyFk": {
+        "defaultMessage": "New Dashboard"
+    },
+    "0TZMjQ": {
+        "defaultMessage": "Oldest"
+    },
+    "0ZzC+U": {
+        "defaultMessage": "Crashed"
+    },
+    "0j9FNP": {
+        "defaultMessage": "Gesture"
+    },
+    "0jGmLC": {
+        "defaultMessage": "Screen Resolution"
+    },
+    "0mZ0YX": {
+        "defaultMessage": "Saw"
+    },
+    "0o3PDW": {
+        "defaultMessage": "Slow Page Loads"
+    },
+    "0rSTkr": {
+        "defaultMessage": "Metric type..."
+    },
+    "1DBBYB": {
+        "defaultMessage": "Mobile Source File"
+    },
+    "1kdV5\/": {
+        "defaultMessage": "Element was not"
+    },
+    "1un+xB": {
+        "defaultMessage": "Ajax error URL"
+    },
+    "1yNH2g": {
+        "defaultMessage": "Web Source File URL Path"
+    },
+    "25PQfE": {
+        "defaultMessage": "Invalid Event Name"
+    },
+    "2XDuH4": {
+        "defaultMessage": "Everyone"
+    },
+    "2eFBK0": {
+        "defaultMessage": "Request Body"
+    },
+    "2gn6IV": {
+        "defaultMessage": "Unique property"
+    },
+    "2mWyLV": {
+        "defaultMessage": "Sum of"
+    },
+    "2nsu3K": {
+        "defaultMessage": "Request Header"
+    },
+    "317tje": {
+        "defaultMessage": "Total active time"
+    },
+    "3G+bLr": {
+        "defaultMessage": "Owned by..."
+    },
+    "3mvL2Q": {
+        "defaultMessage": "and"
+    },
+    "3n\/T9T": {
+        "defaultMessage": "Uncaught Exceptions by Error Message"
+    },
+    "3x8Mnr": {
+        "defaultMessage": "in any order"
+    },
+    "4fHiNl": {
+        "defaultMessage": "Duplicate"
+    },
+    "4g26DI": {
+        "defaultMessage": "Start a new:"
+    },
+    "4jWa5q": {
+        "defaultMessage": "by {dimensionLabel}"
+    },
+    "52o8mS": {
+        "defaultMessage": "Ajax error - Status code"
+    },
+    "55vTH+": {
+        "defaultMessage": "User ID"
+    },
+    "56\/GYK": {
+        "defaultMessage": "Uservar API error"
+    },
+    "5JARbO": {
+        "defaultMessage": "# of Dead Clicks"
+    },
+    "5SNiar": {
+        "defaultMessage": "Refine event by..."
+    },
+    "5eE\/2Y": {
+        "defaultMessage": "Display height"
+    },
+    "5hUg35": {
+        "defaultMessage": "Any Error"
+    },
+    "5jeq8P": {
+        "defaultMessage": "Unknown"
+    },
+    "5qvQUl": {
+        "defaultMessage": "Sessions by Device"
+    },
+    "5sJRb7": {
+        "defaultMessage": "Any API Event"
+    },
+    "68bRJa": {
+        "defaultMessage": "Invalid Property Name"
+    },
+    "6HeCRc": {
+        "defaultMessage": "across any number of sessions"
+    },
+    "6SdkZT": {
+        "defaultMessage": "CSS selector"
+    },
+    "6TbqAD": {
+        "defaultMessage": "Previous Page"
+    },
+    "6dIxDP": {
+        "defaultMessage": "Yesterday"
+    },
+    "6o7Qcc": {
+        "defaultMessage": "Total Events"
+    },
+    "6vLBJ0": {
+        "defaultMessage": "text"
+    },
+    "7+Domh": {
+        "defaultMessage": "Notes"
+    },
+    "78FHyC": {
+        "defaultMessage": "Sessions Today"
+    },
+    "7HW2G0": {
+        "defaultMessage": "range"
+    },
+    "7JlauX": {
+        "defaultMessage": "Explore"
+    },
+    "7KEQvc": {
+        "defaultMessage": "Exit Page"
+    },
+    "7ZnCml": {
+        "defaultMessage": "Data origin"
+    },
+    "7ffRE\/": {
+        "defaultMessage": "Any activity"
+    },
+    "7kj0mG": {
+        "defaultMessage": "Engagement"
+    },
+    "8RI8E3": {
+        "defaultMessage": "Total {label}"
+    },
+    "8dAyoi": {
+        "defaultMessage": "Increase conversion."
+    },
+    "8nh9JU": {
+        "defaultMessage": "Gear"
+    },
+    "9+b1sa": {
+        "defaultMessage": "Viewport width"
+    },
+    "99yMMd": {
+        "defaultMessage": "Console error"
+    },
+    "9MYuRP": {
+        "defaultMessage": "{n, plural, one {1 session} other {# sessions}}"
+    },
+    "A4AHkc": {
+        "defaultMessage": "Min"
+    },
+    "AA5h7P": {
+        "defaultMessage": "Performance"
+    },
+    "AVoifw": {
+        "defaultMessage": "starts with"
+    },
+    "Ac8jrf": {
+        "defaultMessage": "Time duration visible"
+    },
+    "Aikeqc": {
+        "defaultMessage": "App package"
+    },
+    "AjBEeD": {
+        "defaultMessage": "Page name"
+    },
+    "AmgEYn": {
+        "defaultMessage": "Building searches with Inspect Mode"
+    },
+    "B\/JLBK": {
+        "defaultMessage": "is at most"
+    },
+    "B1dCZb": {
+        "defaultMessage": "Element was"
+    },
+    "BLvQGX": {
+        "defaultMessage": "Web Source File URL Query"
+    },
+    "BNKS9w": {
+        "defaultMessage": "{n, plural, one {+1 Filter} other {+# Filters}}"
+    },
+    "BO7MGf": {
+        "defaultMessage": "Clicks per Session"
+    },
+    "BP7SOC": {
+        "defaultMessage": "Invalid Value"
+    },
+    "BPnT3T": {
+        "defaultMessage": "Small"
+    },
+    "BZMteF": {
+        "defaultMessage": "Custom Event Property Cardinality Limit"
+    },
+    "Be8wno": {
+        "defaultMessage": "Response Header"
+    },
+    "Bflf\/9": {
+        "defaultMessage": "Custom Event Name Cardinality Limit"
+    },
+    "Bv20an": {
+        "defaultMessage": "Duplicate Card"
+    },
+    "C2E\/kE": {
+        "defaultMessage": "Time duration rendered"
+    },
+    "C36C7z": {
+        "defaultMessage": "{n, plural, one {1 hour} other {# hours}}"
+    },
+    "CCNkgW": {
+        "defaultMessage": "Time since page load"
+    },
+    "CR82W1": {
+        "defaultMessage": "Avg First Contentful Paint Time"
+    },
+    "ChAOo\/": {
+        "defaultMessage": "Detect New Signal"
+    },
+    "Co4JEZ": {
+        "defaultMessage": "Sessions per User"
+    },
+    "CxfKLC": {
+        "defaultMessage": "Pages"
+    },
+    "D3idYv": {
+        "defaultMessage": "Settings"
+    },
+    "D7ovMF": {
+        "defaultMessage": "Hourly Active Users"
+    },
+    "D9lW\/X": {
+        "defaultMessage": "Device vendor"
+    },
+    "DJhjLw": {
+        "defaultMessage": "Web Source File URL Host"
+    },
+    "Dn82AL": {
+        "defaultMessage": "Live"
+    },
+    "DrHXCg": {
+        "defaultMessage": "Median of"
+    },
+    "Drs3+Y": {
+        "defaultMessage": "Users Today"
+    },
+    "E3oB+t": {
+        "defaultMessage": "Browser"
+    },
+    "E77Cng": {
+        "defaultMessage": "Switch Organization..."
+    },
+    "EMUNAP": {
+        "defaultMessage": "Invalid Property Type"
+    },
+    "EMoSZz": {
+        "defaultMessage": "does not contain {noun}"
+    },
+    "EZee9x": {
+        "defaultMessage": "Custom Event"
+    },
+    "EeONtU": {
+        "defaultMessage": "App OS Version"
+    },
+    "EuPCmy": {
+        "defaultMessage": "{n, plural, one {1 minute} other {# minutes}}"
+    },
+    "FEh4ys": {
+        "defaultMessage": "Invalid JSON"
+    },
+    "FSxnis": {
+        "defaultMessage": "Page active duration"
+    },
+    "FVi6B2": {
+        "defaultMessage": "AJAX Request URL"
+    },
+    "FWCqn5": {
+        "defaultMessage": "Rage clicked recently"
+    },
+    "FgydNe": {
+        "defaultMessage": "View"
+    },
+    "FnRTEV": {
+        "defaultMessage": "Average"
+    },
+    "G\/yZLu": {
+        "defaultMessage": "Remove"
+    },
+    "G95Lq4": {
+        "defaultMessage": "URL Fragment"
+    },
+    "GWtmtu": {
+        "defaultMessage": "Mobile"
+    },
+    "GeFr6E": {
+        "defaultMessage": "Recent Sessions"
+    },
+    "HAlOn1": {
+        "defaultMessage": "Name"
+    },
+    "HC8xUj": {
+        "defaultMessage": "Friction"
+    },
+    "HItUo8": {
+        "defaultMessage": "New this week"
+    },
+    "HNBpJ4": {
+        "defaultMessage": "Metrics"
+    },
+    "HNr6cT": {
+        "defaultMessage": "FS User ID"
+    },
+    "IBTvvk": {
+        "defaultMessage": "was not"
+    },
+    "INK7Ua": {
+        "defaultMessage": "Min of"
+    },
+    "IVxMfR": {
+        "defaultMessage": "matches"
+    },
+    "IZo5du": {
+        "defaultMessage": "Abandoned form"
+    },
+    "ItB\/tz": {
+        "defaultMessage": "Total time"
+    },
+    "J3P4EG": {
+        "defaultMessage": "Request URL Path"
+    },
+    "J5w3q1": {
+        "defaultMessage": "Show new data"
+    },
+    "J6tSnR": {
+        "defaultMessage": "Dead clicked"
+    },
+    "JAkIqb": {
+        "defaultMessage": "Visibility"
+    },
+    "JDYaYV": {
+        "defaultMessage": "Thrashed cursor"
+    },
+    "JSU3ce": {
+        "defaultMessage": "Unique users"
+    },
+    "JVDKYf": {
+        "defaultMessage": "Avg Scroll Depth"
+    },
+    "Jrw8G7": {
+        "defaultMessage": "Modify"
+    },
+    "Jw+OHv": {
+        "defaultMessage": "Web Source File URL Fragment"
+    },
+    "K91VTC": {
+        "defaultMessage": "ends with"
+    },
+    "KBp9m8": {
+        "defaultMessage": "Mobile Sessions"
+    },
+    "KV4Lll": {
+        "defaultMessage": "Pinch-to-zoom"
+    },
+    "Kj+Lfx": {
+        "defaultMessage": "Hourly"
+    },
+    "KnKkPe": {
+        "defaultMessage": "Session Properties"
+    },
+    "KxjtJ9": {
+        "defaultMessage": "Web Source File URL"
+    },
+    "LDcE8i": {
+        "defaultMessage": "Page load"
+    },
+    "LnunRS": {
+        "defaultMessage": "Page Properties"
+    },
+    "Lva7L9": {
+        "defaultMessage": "Medium Playlist"
+    },
+    "Ly96yO": {
+        "defaultMessage": "Device Vendor"
+    },
+    "MMPC3C": {
+        "defaultMessage": "DOMContentLoaded time"
+    },
+    "MbmJGr": {
+        "defaultMessage": "{n, plural, one {1 Event} other {# Events}}"
+    },
+    "Mmuj1R": {
+        "defaultMessage": "Platform"
+    },
+    "Mp1NAJ": {
+        "defaultMessage": "Build a Segment"
+    },
+    "MqPUO\/": {
+        "defaultMessage": "Viewport height"
+    },
+    "NFZXsa": {
+        "defaultMessage": "URL Query"
+    },
+    "NV0AJQ": {
+        "defaultMessage": "Library Quick Search"
+    },
+    "Nm+xJ9": {
+        "defaultMessage": "in this order"
+    },
+    "Ntjkqd": {
+        "defaultMessage": "or"
+    },
+    "NwtEMZ": {
+        "defaultMessage": "Property Name Too Long"
+    },
+    "NyGtyx": {
+        "defaultMessage": "User Count"
+    },
+    "NymYlM": {
+        "defaultMessage": "is one of"
+    },
+    "O4nsMG": {
+        "defaultMessage": "Total sessions"
+    },
+    "O5JWlo": {
+        "defaultMessage": "Chart type..."
+    },
+    "OApXiE": {
+        "defaultMessage": "Selecting this option will include activity from currently active sessions."
+    },
+    "OFzY09": {
+        "defaultMessage": "Event Filters"
+    },
+    "OIM20v": {
+        "defaultMessage": "Past 30 days"
+    },
+    "ON2tBZ": {
+        "defaultMessage": "Hide filters"
+    },
+    "ORGv1Q": {
+        "defaultMessage": "Created"
+    },
+    "OrwKQ+": {
+        "defaultMessage": "Segment"
+    },
+    "OsorgC": {
+        "defaultMessage": "does not contain"
+    },
+    "OwKFXr": {
+        "defaultMessage": "API Events"
+    },
+    "OwQmnm": {
+        "defaultMessage": "App Version"
+    },
+    "OxKZ2d": {
+        "defaultMessage": "Bar Chart"
+    },
+    "P96NkA": {
+        "defaultMessage": "Console warnings on page"
+    },
+    "PDn6wF": {
+        "defaultMessage": "Detections"
+    },
+    "PJEXr1": {
+        "defaultMessage": "Pasted"
+    },
+    "PLUzwy": {
+        "defaultMessage": "Changed"
+    },
+    "PO83gc": {
+        "defaultMessage": "Last seen"
+    },
+    "PPIQZ5": {
+        "defaultMessage": "Understand Engagement"
+    },
+    "PTtxt\/": {
+        "defaultMessage": "Refresh data"
+    },
+    "PW+sL4": {
+        "defaultMessage": "N\/A"
+    },
+    "PXowzK": {
+        "defaultMessage": "contains starts with"
+    },
+    "PjOhEp": {
+        "defaultMessage": "Error clicked"
+    },
+    "PlBReU": {
+        "defaultMessage": "Log out"
+    },
+    "Pq8NpH": {
+        "defaultMessage": "Clicking this option will hide activity from currently active sessions."
+    },
+    "Q2wD\/4": {
+        "defaultMessage": "Quick Actions"
+    },
+    "Q7lAeA": {
+        "defaultMessage": "App version"
+    },
+    "QIhsHN": {
+        "defaultMessage": "Filter by dimension..."
+    },
+    "QNOA2S": {
+        "defaultMessage": "any"
+    },
+    "Qa6Aho": {
+        "defaultMessage": "Highlighted"
+    },
+    "QaAh1f": {
+        "defaultMessage": "Search for dashboards, segments, clicks, page visits and more"
+    },
+    "QbkoXA": {
+        "defaultMessage": "Clicking this option will include activity from currently active sessions."
+    },
+    "QgMK2h": {
+        "defaultMessage": "UTM Source"
+    },
+    "QsaF7m": {
+        "defaultMessage": "Expected Atom"
+    },
+    "R4fztf": {
+        "defaultMessage": "across any number of complete sessions"
+    },
+    "R6cWoL": {
+        "defaultMessage": "Custom Event Properties"
+    },
+    "RLqafw": {
+        "defaultMessage": "Failed to refresh. Try again?"
+    },
+    "S8\/4ZI": {
+        "defaultMessage": "More actions"
+    },
+    "SENRqu": {
+        "defaultMessage": "Help"
+    },
+    "SHkKGm": {
+        "defaultMessage": "Element"
+    },
+    "SOlmXJ": {
+        "defaultMessage": "Rage Clicks by Page"
+    },
+    "STHpH\/": {
+        "defaultMessage": "Average session length"
+    },
+    "SlALjP": {
+        "defaultMessage": "Using FullStory Search"
+    },
+    "StcK67": {
+        "defaultMessage": "Library"
+    },
+    "T7Rhhi": {
+        "defaultMessage": "Getting Started Guide"
+    },
+    "TE4fIS": {
+        "defaultMessage": "City"
+    },
+    "TFJD82": {
+        "defaultMessage": "Anyone"
+    },
+    "TUubem": {
+        "defaultMessage": "Remove Card"
+    },
+    "TXLR5z": {
+        "defaultMessage": "Track a Metric"
+    },
+    "Td44RZ": {
+        "defaultMessage": "Response Body"
+    },
+    "TdTXXf": {
+        "defaultMessage": "Learn more"
+    },
+    "TdbPNK": {
+        "defaultMessage": "Me"
+    },
+    "ThfbOt": {
+        "defaultMessage": "Dead clicks"
+    },
+    "Tk6DBc": {
+        "defaultMessage": "{n, plural, one {1 day} other {# days}}"
+    },
+    "U6GrGz": {
+        "defaultMessage": "Notifications and Alerts"
+    },
+    "UHAMpE": {
+        "defaultMessage": "Time since session start"
+    },
+    "UJaKfR": {
+        "defaultMessage": "has substring"
+    },
+    "UOxi8m": {
+        "defaultMessage": "Welcome back, {name}"
+    },
+    "URl1Yk": {
+        "defaultMessage": "User Var Cardinality Limit"
+    },
+    "UfncEq": {
+        "defaultMessage": "not last"
+    },
+    "V11Rrn": {
+        "defaultMessage": "First contentful paint time"
+    },
+    "V1oLye": {
+        "defaultMessage": "Ajax Errors"
+    },
+    "V7Ap\/9": {
+        "defaultMessage": "Request Status"
+    },
+    "VF3DcR": {
+        "defaultMessage": "Segments"
+    },
+    "VJWJyq": {
+        "defaultMessage": "Device type"
+    },
+    "VQ50as": {
+        "defaultMessage": "Refreshed URL"
+    },
+    "VW156C": {
+        "defaultMessage": "App Package Name"
+    },
+    "VauPtZ": {
+        "defaultMessage": "for event:"
+    },
+    "VqZnV+": {
+        "defaultMessage": "within the same complete session"
+    },
+    "W6lKkY": {
+        "defaultMessage": "Scroll Depth"
+    },
+    "WFXtQM": {
+        "defaultMessage": "View sessions"
+    },
+    "WUJtEO": {
+        "defaultMessage": "Fetching new data..."
+    },
+    "WnKl2b": {
+        "defaultMessage": "Any Activity"
+    },
+    "WrSL3+": {
+        "defaultMessage": "Median"
+    },
+    "WuHoZ9": {
+        "defaultMessage": "Conversions"
+    },
+    "X6ruKu": {
+        "defaultMessage": "Data type"
+    },
+    "XE6WyF": {
+        "defaultMessage": "Select event..."
+    },
+    "XLIK+J": {
+        "defaultMessage": "Rage Clicks, Error Clicks, and more"
+    },
+    "XXaC3f": {
+        "defaultMessage": "Low Memory"
+    },
+    "Xt+LqS": {
+        "defaultMessage": "Watched Element"
+    },
+    "Xuqiz4": {
+        "defaultMessage": "Page load time"
+    },
+    "YAnsyA": {
+        "defaultMessage": "Exception"
+    },
+    "YCRwzd": {
+        "defaultMessage": "Average of"
+    },
+    "YDMrKK": {
+        "defaultMessage": "Users"
+    },
+    "YIVYD4": {
+        "defaultMessage": "Average session active time"
+    },
+    "YYkniy": {
+        "defaultMessage": "Sum"
+    },
+    "Yf8527": {
+        "defaultMessage": "Added to"
+    },
+    "YpQ4xE": {
+        "defaultMessage": "Time to Complete"
+    },
+    "Z3EDd9": {
+        "defaultMessage": "Sessions"
+    },
+    "Z6CvfR": {
+        "defaultMessage": "Highlighted Text Sessions"
+    },
+    "ZCGYO4": {
+        "defaultMessage": "Visited Page"
+    },
+    "ZFUyxm": {
+        "defaultMessage": "Suspicious activity"
+    },
+    "ZOWtIg": {
+        "defaultMessage": "Past 90 days"
+    },
+    "ZYFYGC": {
+        "defaultMessage": "New Users This Week"
+    },
+    "ZbWc+A": {
+        "defaultMessage": "IP address"
+    },
+    "ZvKSfJ": {
+        "defaultMessage": "Events"
+    },
+    "aA8bDw": {
+        "defaultMessage": "Text"
+    },
+    "aK204u": {
+        "defaultMessage": "is set"
+    },
+    "alA913": {
+        "defaultMessage": "is not"
+    },
+    "an2q4S": {
+        "defaultMessage": "Referrer Query"
+    },
+    "aqI5YF": {
+        "defaultMessage": "{aqI5YF::defaultMessage, plural, one {<b>{end, select, 0 {0} other {{start, number}-{end, number}}}<\/b> of <b>{total, number}<\/b> User} other {<b>{end, select, 0 {0} other {{start, number}-{end, number}}}<\/b> of <b>{total, number}<\/b> Users}}"
+    },
+    "azL1b+": {
+        "defaultMessage": "Web source file URL"
+    },
+    "bWjdfa": {
+        "defaultMessage": "URL"
+    },
+    "bat2FM": {
+        "defaultMessage": "after"
+    },
+    "bv2dU7": {
+        "defaultMessage": "Playlist"
+    },
+    "c3VJQo": {
+        "defaultMessage": "Device"
+    },
+    "c7uxEi": {
+        "defaultMessage": "contains {noun}"
+    },
+    "cXHdnC": {
+        "defaultMessage": "Analyze user cohorts."
+    },
+    "cZ+mfu": {
+        "defaultMessage": "false"
+    },
+    "cahcJB": {
+        "defaultMessage": "New visitor!"
+    },
+    "ccU6l\/": {
+        "defaultMessage": "Online"
+    },
+    "cmwbt4": {
+        "defaultMessage": "User Filters"
+    },
+    "csPq8j": {
+        "defaultMessage": "Element text"
+    },
+    "d9zjuF": {
+        "defaultMessage": "Multipled by"
+    },
+    "dK0zKi": {
+        "defaultMessage": "Divided by"
+    },
+    "dm8OV1": {
+        "defaultMessage": "Uncaught exceptions"
+    },
+    "dpNzM1": {
+        "defaultMessage": "Sort..."
+    },
+    "dsssWO": {
+        "defaultMessage": "contains word"
+    },
+    "e\/U0Xt": {
+        "defaultMessage": "Conversion Rate"
+    },
+    "e\/WYt2": {
+        "defaultMessage": "Device Model"
+    },
+    "eLo5pf": {
+        "defaultMessage": "Max of"
+    },
+    "eNV6W1": {
+        "defaultMessage": "Signed-up status"
+    },
+    "ejEGdx": {
+        "defaultMessage": "Home"
+    },
+    "er67u6": {
+        "defaultMessage": "Mobile source file"
+    },
+    "esCOQf": {
+        "defaultMessage": "Large Playlist"
+    },
+    "eydh3F": {
+        "defaultMessage": "Page Var Cardinality Limit"
+    },
+    "f19YrE": {
+        "defaultMessage": "contains"
+    },
+    "f9sf8v": {
+        "defaultMessage": "Element was not set"
+    },
+    "fBg+7V": {
+        "defaultMessage": "Navigation"
+    },
+    "fJrCjM": {
+        "defaultMessage": "Rearrange Sections"
+    },
+    "fQ\/91p": {
+        "defaultMessage": "CSS Selector"
+    },
+    "fXdkiI": {
+        "defaultMessage": "is"
+    },
+    "fbTd38": {
+        "defaultMessage": "word starts with"
+    },
+    "fblb6g": {
+        "defaultMessage": "Dead Clicks by Element Text"
+    },
+    "fhPjTh": {
+        "defaultMessage": "Pick up where you left off."
+    },
+    "fhwTpA": {
+        "defaultMessage": "Sources"
+    },
+    "fo6nxA": {
+        "defaultMessage": "was"
+    },
+    "frV9oe": {
+        "defaultMessage": "User agent"
+    },
+    "fwIt1X": {
+        "defaultMessage": "Newest"
+    },
+    "fyyghb": {
+        "defaultMessage": "Rate Limit"
+    },
+    "g0l0BU": {
+        "defaultMessage": "User Identification"
+    },
+    "g1nC\/k": {
+        "defaultMessage": "Too Big To Parse"
+    },
+    "gj0yEQ": {
+        "defaultMessage": "Any user"
+    },
+    "hBOL4a": {
+        "defaultMessage": "Referrer Host"
+    },
+    "hCCWuZ": {
+        "defaultMessage": "Previous period"
+    },
+    "hHsrBi": {
+        "defaultMessage": "Visited URL"
+    },
+    "hQxEbr": {
+        "defaultMessage": "Console Log"
+    },
+    "hbFzod": {
+        "defaultMessage": "Meta"
+    },
+    "hmp7Ga": {
+        "defaultMessage": "Create a Dashboard"
+    },
+    "hzSNj4": {
+        "defaultMessage": "Dashboard"
+    },
+    "i9WP0T": {
+        "defaultMessage": "Browser Version"
+    },
+    "iExIzC": {
+        "defaultMessage": "FS Page Cluster ID"
+    },
+    "iNITLb": {
+        "defaultMessage": "Card format..."
+    },
+    "iVb9TG": {
+        "defaultMessage": "Top Results"
+    },
+    "iWaJoW": {
+        "defaultMessage": "Click to show\/hide Sidebar"
+    },
+    "iYisoJ": {
+        "defaultMessage": "Console errors on page"
+    },
+    "if4+SK": {
+        "defaultMessage": "Error type"
+    },
+    "j6QW3g": {
+        "defaultMessage": "not range"
+    },
+    "jmHzGU": {
+        "defaultMessage": "Named Elements"
+    },
+    "kCBS9D": {
+        "defaultMessage": "Page duration"
+    },
+    "kSDNX6": {
+        "defaultMessage": "true"
+    },
+    "kT8vGm": {
+        "defaultMessage": "UTM Medium"
+    },
+    "kUOfVH": {
+        "defaultMessage": "Happening Now"
+    },
+    "kh4vUi": {
+        "defaultMessage": "App OS version"
+    },
+    "kkjl2v": {
+        "defaultMessage": "Max"
+    },
+    "ku+mDU": {
+        "defaultMessage": "State"
+    },
+    "l27R55": {
+        "defaultMessage": "Device model"
+    },
+    "ldPuKp": {
+        "defaultMessage": "Uncaught Exceptions"
+    },
+    "lxYkn9": {
+        "defaultMessage": "Monitor Performance & Errors"
+    },
+    "m1czzY": {
+        "defaultMessage": "Event"
+    },
+    "mECNXf": {
+        "defaultMessage": "was not set"
+    },
+    "mPCn9j": {
+        "defaultMessage": "last"
+    },
+    "mbbNJS": {
+        "defaultMessage": "Past 7 days"
+    },
+    "n8cyVk": {
+        "defaultMessage": "Operating system"
+    },
+    "nUTMzB": {
+        "defaultMessage": "Subtracted by"
+    },
+    "naCxYc": {
+        "defaultMessage": "is unset"
+    },
+    "nqgUSH": {
+        "defaultMessage": "Measure your KPIs."
+    },
+    "nwqt7T": {
+        "defaultMessage": "Dashboards"
+    },
+    "o\/XNk9": {
+        "defaultMessage": "Entry Page"
+    },
+    "o0vS8L": {
+        "defaultMessage": "Past 12 months"
+    },
+    "o2ureI": {
+        "defaultMessage": "is less than"
+    },
+    "oSiF9E": {
+        "defaultMessage": "Defined Events"
+    },
+    "oYnwe1": {
+        "defaultMessage": "No Change"
+    },
+    "oebwED": {
+        "defaultMessage": "Referrer URL"
+    },
+    "ovJ26C": {
+        "defaultMessage": "Medium"
+    },
+    "p556q3": {
+        "defaultMessage": "Copied"
+    },
+    "p8mCAI": {
+        "defaultMessage": "Scientifically"
+    },
+    "pfLwhe": {
+        "defaultMessage": "Display width"
+    },
+    "ptasEQ": {
+        "defaultMessage": "# of Error Clicks"
+    },
+    "puhcpn": {
+        "defaultMessage": "Funnels"
+    },
+    "q5IfXQ": {
+        "defaultMessage": "Ajax error - Request method"
+    },
+    "q6AHcl": {
+        "defaultMessage": "is at least"
+    },
+    "q8U+NM": {
+        "defaultMessage": "Input Element"
+    },
+    "q9e4Kl": {
+        "defaultMessage": "Top Entry Pages"
+    },
+    "qbpCEL": {
+        "defaultMessage": "IDs Immutable"
+    },
+    "qgj9Be": {
+        "defaultMessage": "Navigated to screen"
+    },
+    "qgwhmJ": {
+        "defaultMessage": "Error clicks"
+    },
+    "qvHQmE": {
+        "defaultMessage": "Referrer Fragment"
+    },
+    "rO9P0k": {
+        "defaultMessage": "User Agent"
+    },
+    "rj6wjq": {
+        "defaultMessage": "State\/region"
+    },
+    "rkptFF": {
+        "defaultMessage": "within the same session"
+    },
+    "rvirM2": {
+        "defaultMessage": "Location"
+    },
+    "s+lPP3": {
+        "defaultMessage": "All time"
+    },
+    "sCBAB+": {
+        "defaultMessage": "Define a Funnel"
+    },
+    "sCVwkx": {
+        "defaultMessage": "Referrer Path"
+    },
+    "shyA96": {
+        "defaultMessage": "{n, plural, one {1 second} other {# seconds}}"
+    },
+    "sq8t1s": {
+        "defaultMessage": "before"
+    },
+    "sviesV": {
+        "defaultMessage": "Browser version"
+    },
+    "sxVgbO": {
+        "defaultMessage": "Rage clicks"
+    },
+    "sy+pv5": {
+        "defaultMessage": "Email"
+    },
+    "t2uvIi": {
+        "defaultMessage": "Operating System"
+    },
+    "tJZ3DG": {
+        "defaultMessage": "First seen"
+    },
+    "tQV8l8": {
+        "defaultMessage": "Unknown Error"
+    },
+    "tvcc83": {
+        "defaultMessage": "Error Type"
+    },
+    "uAdfN6": {
+        "defaultMessage": "Scroll depth"
+    },
+    "uCwNj8": {
+        "defaultMessage": "FullStory Help"
+    },
+    "uJV0wU": {
+        "defaultMessage": "IP Address"
+    },
+    "uNKKHK": {
+        "defaultMessage": "User Properties"
+    },
+    "urfe0A": {
+        "defaultMessage": "First Contentful Paint"
+    },
+    "utMcK0": {
+        "defaultMessage": "Search {name}"
+    },
+    "v5pFpI": {
+        "defaultMessage": "More..."
+    },
+    "vOE+PU": {
+        "defaultMessage": "Funnel"
+    },
+    "vONi+O": {
+        "defaultMessage": "Country"
+    },
+    "vPYlT+": {
+        "defaultMessage": "A-Z"
+    },
+    "vRLP1C": {
+        "defaultMessage": "Pagevar API error"
+    },
+    "vSsRTX": {
+        "defaultMessage": "Find & Fix"
+    },
+    "vrip\/t": {
+        "defaultMessage": "DOM content loaded"
+    },
+    "wFmAFC": {
+        "defaultMessage": "Page"
+    },
+    "wRFard": {
+        "defaultMessage": "Invalid ID"
+    },
+    "wVCk3c": {
+        "defaultMessage": "Custom event API error"
+    },
+    "wYsv4Z": {
+        "defaultMessage": "Monthly"
+    },
+    "weRLpb": {
+        "defaultMessage": "Rage clicked"
+    },
+    "whCtI7": {
+        "defaultMessage": "Avg Page Load Time"
+    },
+    "woTwVp": {
+        "defaultMessage": "Problematic Sessions by Device"
+    },
+    "wsutl0": {
+        "defaultMessage": "App View Name"
+    },
+    "x9TypM": {
+        "defaultMessage": "Since {date}"
+    },
+    "xYysXk": {
+        "defaultMessage": "Data storytelling."
+    },
+    "xrk6zg": {
+        "defaultMessage": "Updated"
+    },
+    "xyyLnD": {
+        "defaultMessage": "was set"
+    },
+    "y2X9Hc": {
+        "defaultMessage": "Network URL"
+    },
+    "yJDPoK": {
+        "defaultMessage": "Top Highlighted Pages"
+    },
+    "yP+s0c": {
+        "defaultMessage": "Page Var Max Properties Per Page"
+    },
+    "yVHFCo": {
+        "defaultMessage": "{noun} starts with"
+    },
+    "yXCkgb": {
+        "defaultMessage": "Avg DOM Content Load Time"
+    },
+    "ynk5aJ": {
+        "defaultMessage": "Missing Property Type"
+    },
+    "yypztr": {
+        "defaultMessage": "Metric"
+    },
+    "zCfYTl": {
+        "defaultMessage": "anything"
+    },
+    "zIBfw+": {
+        "defaultMessage": "is greater than"
+    },
+    "zINlao": {
+        "defaultMessage": "Owner"
+    },
+    "zQvVDJ": {
+        "defaultMessage": "All"
+    },
+    "zWElXZ": {
+        "defaultMessage": "Data Export"
+    },
+    "zWgbGg": {
+        "defaultMessage": "Today"
+    },
+    "zZ8LXh": {
+        "defaultMessage": "when the"
+    },
+    "zsA9Kf": {
+        "defaultMessage": "Value Too Big"
+    },
+    "zxvhnE": {
+        "defaultMessage": "Daily"
+    },
+    "test_icu": "{test_icu, plural, one {<b>{end, select, 0 {0} other {{start, number}-{end, number}}}<\/b> of <b>{total, number}<\/b> User} other {<b>{end, select, 0 {0} other {{start, number}-{end, number}}}<\/b> of <b>{total, number}<\/b> Users}}",
+    "test select": "<b>{end, select, 0 {zero} other {{start, number}-{end, number}}}<\/b> of <b>{total, number}<\/b> User"
+}
